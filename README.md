@@ -129,7 +129,7 @@ or (http://127.0.0.1:5000/)
 
 ### 🔗 GitHub Repo
 
-[🔗 View Full Code on GitHub](#) *(Replace with your repo link)*
+[🔗 View Full Code on GitHub](https://github.com/AlaparthiSaisree/Docker-Flask-App) *(Replace with your repo link)*
 
 ---
 
